@@ -1,0 +1,27 @@
+Question: Haftada necha kun bor?
+Level: HARD
+A) 6 kun
+B) 5 kun
+C) 4 kun
+D) 7 kun*
+------------------------------------
+Question: Mart oyida necha kun bor?
+Level: MEDIUM
+A) 6 kun
+B) 5 kun
+C) 30 kun
+D) 31 kun*
+------------------------------------
+Question: Sutkada necha soat bor?
+Level: EASY
+A) 6 soat
+B) 5 soat
+C) 4 soat
+D) 24 soat*
+------------------------------------
+Question: Haftaning 5-kuni?
+Level: Hard
+A) Shanba
+B) Juma*
+C) Yakshanba
+D) Dushanba
